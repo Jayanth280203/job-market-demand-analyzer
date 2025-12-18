@@ -7,17 +7,22 @@ It demonstrates real-world **big data analytics**, multi-table joins, and salary
 ---
 
 ## 🛠️ Technologies Used
-- 🧱 Databricks
-- ⚡ Apache Spark (PySpark)
-- 🧮 Spark SQL
-- 🐍 Python
-- ☁️ Cloud-based Big Data Analytics
+
+🧱 Databricks
+
+⚡ Apache Spark (PySpark)
+
+🧮 Spark SQL
+
+🐍 Python
+
+☁️ Cloud-based Big Data Analytics
 
 ---
 
 ## 📁 Dataset
-- 📌 **LinkedIn Job Postings Dataset** (Kaggle)
-- Tables used:
+📌 **LinkedIn Job Postings Dataset** (Kaggle)
+Tables used:
   - `job_skills.csv`
   - `skills.csv`
   - `salaries.csv`
@@ -25,18 +30,26 @@ It demonstrates real-world **big data analytics**, multi-table joins, and salary
 ---
 
 ## ✨ Key Features
-- 🔗 Multi-table joins using Spark
-- 📈 Skill demand analysis
-- 💰 Salary intelligence by skill
-- 🧾 SQL-based analytics
-- 📊 Interactive visualizations in Databricks
+
+🔗 Multi-table joins using Spark
+
+📈 Skill demand analysis
+
+💰 Salary intelligence by skill
+
+🧾 SQL-based analytics
+
+📊 Interactive visualizations in Databricks
 
 ---
 
 ## 🔍 Key Insights
-- 🚀 Identified top in-demand skills in the job market
-- 💡 Analyzed average salary associated with each skill
-- 🎯 Highlighted high-paying skills for career planning
+
+🚀 Identified top in-demand skills in the job market
+
+💡 Analyzed average salary associated with each skill
+
+🎯 Highlighted high-paying skills for career planning
 
 ---
 
